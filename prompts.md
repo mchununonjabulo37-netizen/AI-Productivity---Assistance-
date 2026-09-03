@@ -4,8 +4,7 @@ CAPACITI Week 17 - Nonjabulo Gugu Mchunu
 ## Feature 1: Email Generation
 **Techniques:** Role-based + Audience Adaptation + Tone Variation
 
-**Prompt Used:**# Prompts Library - AI Productivity Assistant
-CAPACITI Week 17 - Njabulo
+
 
 ## 1. Email Generation
 Techniques: Role-based + Audience + Tone
